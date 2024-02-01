@@ -1,0 +1,13 @@
+{
+    "name": "app-variaveis-ambiente",
+    "version": "1.0.0",
+    "description": "Aplicação de exemplo para usar variáveis de ambiente com Kubernetes",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "ejs": "^3.1.9",
+        "express": "^4.17.1"
+    }
+}
