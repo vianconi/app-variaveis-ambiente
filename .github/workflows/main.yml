@@ -26,3 +26,5 @@ jobs:
         tags: |
           fabricioveronez/app-variaveis-ambiente:v1
           fabricioveronez/app-variaveis-ambiente:latest  
+          kubedevio/app-variaveis-ambiente:v1
+          kubedevio/app-variaveis-ambiente:latest  
